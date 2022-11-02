@@ -43,3 +43,6 @@ pip-wheel-metadata
 htmlcov
 
 wheelhouse/
+
+# logs
+logs/
